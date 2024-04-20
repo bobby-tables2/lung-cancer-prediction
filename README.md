@@ -23,4 +23,9 @@ Our objective is to develop a predictive model that predicts lung cancer risk ba
 - Use a large and balanced dataset.
 
 ## Data Source
-https://www.kaggle.com/code/sandragracenelson/lung-cancer-prediction
+- <https://www.kaggle.com/code/sandragracenelson/lung-cancer-prediction>
+
+## References
+- <https://www.wcrf.org/cancer-trends/lung-cancer-statistics/>
+- <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6033377/>
+- <https://thisvsthat.io/decision-tree-vs-neural-network>
