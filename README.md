@@ -5,8 +5,11 @@
 - Yi Feng
 - Razan
 
-## Motivation and Problem Definition
+## Problem Definition
 Our objective is to develop a predictive model that predicts lung cancer risk based on demographic and lifestyle factors, including age, smoking history, alcohol consumption and other factors. 
+
+## Motivation
+Our aim is to assist in possible early detection of lung cancer at a low cost through the use of predictive models, ultimately improving treatment outcomes and survival rates.
 
 ## Models Used
 - SVM model
