@@ -22,6 +22,11 @@ Our aim is to assist in possible early detection of lung cancer at a low cost th
 - Neural Network had the best accuracy while Decision tree classifier had the worst.
 - Decision Tree was most affected by skew, while SVM and Logistic Regression were the least affected.
 
+## What did we learn from this project?
+- Learning about how the various machine learning models work
+- Changing categorical variables into binary values using SCIKIT's Learn LabelEnconder function
+- Understanding classification report from the various models used
+
 ## Future Improvements
 - Use a large and balanced dataset.
 
