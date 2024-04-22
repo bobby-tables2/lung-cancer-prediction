@@ -13,7 +13,7 @@ Our aim is to assist in possible early detection of lung cancer at a low cost th
 
 ## Notebook file contains the following
 - Data Extraction
-- Data Extraction
+- Data Analysis
 - Data Cleaning
 - Machine Learning Models
 - Performance of Machine Learning Models
