@@ -1,9 +1,9 @@
 # Lung Cancer Data Analysis and Prediction Project for SC1015
 
 ## Contributors
-- Xianyao
-- Yi Feng
-- Razan
+- Xianyao(@Bobby Tables) - Research, Data Analysis, Code, Presentation Slides and video
+- Yi Feng(@Izunayf) - Research, Data Analysis, Code, Presentation Slides and video
+- Razan(@Razan1412) - Research, Data Analysis, Code, Presentation Slides and video
 
 ## Problem Definition
 Our objective is to develop a predictive model that predicts lung cancer risk based on demographic and lifestyle factors, including age, smoking history, alcohol consumption and other factors. 
@@ -11,7 +11,14 @@ Our objective is to develop a predictive model that predicts lung cancer risk ba
 ## Motivation
 Our aim is to assist in possible early detection of lung cancer at a low cost through the use of predictive models, ultimately improving treatment outcomes and survival rates.
 
-## Models Used
+## Notebook file contains the following:
+Data Extraction
+Data Extraction
+Data Cleaning
+Machine Learning Models
+Performance of Machine Learning Models
+
+## Machine Learning Models Used
 - SVM model
 - Logistic regression model
 - Decision tree classifier
