@@ -12,11 +12,11 @@ Our objective is to develop a predictive model that predicts lung cancer risk ba
 Our aim is to assist in possible early detection of lung cancer at a low cost through the use of predictive models, ultimately improving treatment outcomes and survival rates.
 
 ## Notebook file contains the following:
-Data Extraction
-Data Extraction
-Data Cleaning
-Machine Learning Models
-Performance of Machine Learning Models
+- Data Extraction
+- Data Extraction
+- Data Cleaning
+- Machine Learning Models
+- Performance of Machine Learning Models
 
 ## Machine Learning Models Used
 - SVM model
